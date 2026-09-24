@@ -81,3 +81,5 @@ al menos 8 caracteres, y muestra los mensajes con JOptionPane.
 ```
 
 [Bitacora de prompts](prompts/BITACORA.md)
+
+- [Tarea: mi prompt profesional](prompts/TAREA.md)

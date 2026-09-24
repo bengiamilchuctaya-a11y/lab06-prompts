@@ -72,5 +72,3 @@ Ejemplo de estructura de respuesta esperada:
    - En la `v1` solo pedí "un CRUD". En la `v3` especifiqué detalladamente el lenguaje (Java), la tecnología gráfica (Swing), el tipo de aplicación (escritorio) y los atributos exactos de la entidad `Producto`.
 2. **No dar contexto ni restricciones:**
    - Al no dar restricciones, la IA solía incluir dependencias de bases de datos o frameworks como Hibernate/Spring. Lo evité agregando una sección explícita de "Requisitos estrictos / Restricciones" prohibiendo librerías externas y exigiendo el uso de colecciones nativas (`ArrayList`).
-
-- [Tarea: mi prompt profesional](prompts/TAREA.md)
